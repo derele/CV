@@ -1,0 +1,83 @@
+Curriculum vitae 
+
+2008-2012 Doctoral studies, Karlsruhe Institute of Technology and
+          University of Edinburgh Dissertation: Divergence of an
+          introduced population of the swimbladder-nematode
+          Anguillicola crassus - a transcriptomic
+          perspective. Supervisors: Prof. Dr. Horst Taraschewski and
+          Prof. Mark Blaxter.  
+
+
+2007-2008 Work on diploma thesis, University of Karlsruhe, Zoological
+          Institute, Department for Parasitology and Ecology. Thesis
+          title: Vergleichende licht- und elektronenmikroskopische
+          Untersuchungen am Intestinaltrakt des invasiven
+          Schwimmblasennematoden Anguillicola crassus aus
+          verschiedenen Aalarten.
+
+2001-2007 Undergraduate studies in Biology, University of Karlsruhe.
+          Main subject: Zoology. Subsidiary subjects: Genetics, Botany
+
+Research Interests 
+
+I am interested in the evolution of host-parasite interactions,
+speciation, population- and phylogenetics. I am convinced that
+transcriptomics and genomics will continue to revolutionise these
+areas of research. Working with such data developed a strong interest
+in computational tools and statistical analyses and especially in the
+reuse and reproducibility of analyses in a scripting environment. I
+use Perl and R/bioconductor as my main research tools and enjoy the
+graphic capabilities of the latter using it for the illustration of
+large scale data-sets.
+
+Projects
+
+Anguillicola crassus
+
+30 years ago Anguillicola crassus was introduced from Asia, where it
+parasitises Angilla japonica, to Europe and spread here in the new
+host species Anguilla anguilla. During my doctoral research I
+investigated whether and how much phenotypic plasticity or rapid
+adaptation to differential selection are contributing to its success
+in invading new host-populations. Differential gene-expression in
+A. crassus populations was assessed using next generation sequencing
+on the 454 and Illumina platforms and genetic components of
+differences were isolated in cross-inoculation experiments with both
+Asian and European host-species and parasite populations. The
+identified candidate expression-phenotypes will be more accessible to
+population-genetic analysis, then classical morphological
+differences. Currently I aim to implement projects building on this
+idea.
+
+Apicomplexan parasites and their hosts
+
+Eimeria falciformis
+
+I am supporting a genome project for this coccidian parasite of mice.
+Genome-Sequencing and digital transcriptomics of life-cycle stages will
+help to establish this parasite as a model for apicomplexan parasites
+in general. The strength of this model, compared to all apicomplexan
+model-systems available to date, will be the accessibility of sexual
+stages of the parasite in a model-organism host.
+
+Sarcocystis
+
+I am currently developing a project on speciation of Sarcosporidian
+parasites and their lizard-hosts. More on these projects once they
+materialise...
+
+Peer Reviewed Publications
+
+Emanuel G Heitlinger, Stephen Bridgett, Anna Montazam, Horst
+Taraschewski and Mark L Blaxter (under review) The transcritpome of
+the invasive swimmbladder nematode Anguillicola crassus. BMC Genomics
+
+Dominik R Laetsch, Emanuel G Heitlinger, Horst Taraschewski, Steven A
+Nadler and Mark L Blaxter (2012) The phylogenetics of Anguillicolidae
+(Nematoda: Anguillicolidea), swimbladder parasites of eels. BMC
+Evolutionary Biology 2012, 12:60
+
+Emanuel G Heitlinger, Dominik R Laetsch, Urszula Weclawski, Yu-San Han
+and Horst Taraschewski (2009) Massive encapsulation of larval
+Anguillicoloides crassus in the intestinal wall of Japanese
+eels. Parasites & Vectors, 2:48.
