@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.1.29)  29 OCT 2014 14:35
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2013.1.29)  29 OCT 2014 18:54
 entering extended mode
  %&-line parsing enabled.
 **curriculum_vitae.tex
@@ -218,13 +218,13 @@ Overfull \hbox (2.22166pt too wide) in paragraph at lines 78--92
 
 [1
 
-{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
+{/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 (./curriculum_vitae.aux) ) 
 Here is how much of TeX's memory you used:
- 3314 strings out of 256216
- 45040 string characters out of 1917072
- 100778 words of memory out of 1500000
- 6598 multiletter control sequences out of 10000+200000
+ 3318 strings out of 256216
+ 45076 string characters out of 1917072
+ 101778 words of memory out of 1500000
+ 6599 multiletter control sequences out of 10000+200000
  9837 words of font info for 23 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
  25i,5n,28p,212b,410s stack positions out of 5000i,500n,6000p,200000b,15000s
@@ -235,9 +235,9 @@ ppen/ec/ecbx1000.600pk> </home/ele/.texlive2007/texmf-var/fonts/pk/ljfour/jknap
 pen/ec/ecbx1440.600pk> </home/ele/.texlive2007/texmf-var/fonts/pk/ljfour/jknapp
 en/ec/ecrm1000.600pk> </home/ele/.texlive2007/texmf-var/fonts/pk/ljfour/jknappe
 n/ec/ecrm2074.600pk></usr/share/texmf/fonts/type1/public/eurosym/feymr10.pfb>
-Output written on curriculum_vitae.pdf (2 pages, 77181 bytes).
+Output written on curriculum_vitae.pdf (3 pages, 83235 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 9 named destinations out of 1000 (max. 131072)
+ 256 PDF objects out of 1000 (max. 8388607)
+ 12 named destinations out of 1000 (max. 131072)
  17 words of extra memory for PDF output out of 10000 (max. 10000000)
 
