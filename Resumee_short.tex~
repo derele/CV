@@ -1,0 +1,376 @@
+% Emanuel E. Heitlinger - Curriculum Vitae
+%
+
+\documentclass[10pt,a4paper]{article}
+\usepackage{hyperref}
+\usepackage{geometry}
+
+% Fonts
+\usepackage[T1]{fontenc}
+
+%\usepackage[urw-garamond]{mathdesign}
+\usepackage{eurosym}
+
+
+% Set your name here
+\def\name{Emanuel Heitlinger}
+
+\geometry{
+  body={6.5in, 9.0in},
+  left=1.0in,
+  top=1.0in
+}
+
+% The following metadata will show up in the PDF properties
+\hypersetup{
+  colorlinks = true,
+  urlcolor = black,
+  pdfauthor = {\name},
+  pdfkeywords = {evolution, ecology, host-parasite interactions,
+    transcriptomics, genomics},
+  pdftitle = {\name: Curriculum Vitae},
+  pdfsubject = {Curriculum Vitae},
+  pdfpagemode = UseNone
+}
+
+% Customize page headers
+\pagestyle{myheadings}
+\usepackage{sectsty}
+\markright{\name}
+\pagestyle{empty}
+
+% Custom section fonts
+%\sectionfont{\rmfamily\mdseries\Large}
+%\subsectionfont{\rmfamily\mdseries\itshape\large}
+
+% Other possible font commands include:
+% \ttfamily for teletype,
+% \sffamily for sans serif,
+% \bfseries for bold,
+% \scshape for small caps,
+% \normalsize, \large, \Large, \LARGE sizes.
+
+% Don't indent paragraphs.
+\setlength\parindent{0em}
+
+% Make lists without bullets and compact spacing
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{2.5em}
+    \setlength{\itemsep}{0.25em}
+    \setlength{\parskip}{0pt}
+    \setlength{\parsep}{0.25em}
+  }
+}{
+  \end{list}
+}
+
+
+% Place name at left
+\begin{document}
+{\huge \name}
+
+% Alternatively, print name centered and bold:
+%\centerline{\huge \bf \name}
+
+\bigskip
+
+\begin{minipage}[t]{0.4\textwidth}
+  Juniorprofessor
+  \begin{itemize}
+  \item Humboldt University (HU)
+    Department for Molecular Parasitology 
+  \item Leibniz Institute for Zoo and
+    Wildlife Research (IZW)
+    Berlin
+  \end{itemize}
+\end{minipage}
+\hspace{1cm}
+\begin{minipage}[t]{0.5\textwidth}
+  \bigskip
+  \begin{itemize}
+  \item Phone (HU): (+49) (0)30 2093 6450 
+  \item Phone (IZW): (+49) (0)30 5168 253 
+  \item Mobile: (+49) (0)178 2545475
+  \item Email: \href{mailto:emanuelheitlinger@gmail.com}{emanuelheitlinger@gmail.com}
+\end{itemize}
+\end{minipage}
+
+\section*{Education}
+
+\begin{itemize}
+\item [Jun 2008--Feb 2012] Doctoral studies, Karlsruhe Institute of Technology.
+  \begin{itemize}
+  \item[\textbf{Dissertation:}]
+    \href{http://digbib.ubka.uni-karlsruhe.de/volltexte/1000027222}
+    {Divergence of an introduced population
+      of the swimbladder-nematode \textit{Anguillicola crassus} - a
+      transcriptomic perspective.}
+  \item[\textbf{Supervisors:}]
+    Prof. Dr. Horst Taraschewski and Prof. Mark Blaxter.
+  \end{itemize}
+\item [Jun 2007--Feb 2008] Diploma thesis, University of Karlsruhe,
+  Zoological Institute, Department for Parasitology and Ecology.
+  \begin{itemize} 
+  \item[\textbf{Thesis title:}] Vergleichende licht- und
+    elektronenmikroskopische Untersuchungen am Intestinaltrakt des
+    invasiven Schwimmblasennematoden \textit{Anguillicola crassus} aus
+    verschiedenen Aalarten.
+  \end{itemize}
+\item [2001--2007] Undergraduate studies in Biology, University of
+  Karlsruhe.
+  \begin{itemize}
+  \item[\textbf{Main subject:}] Zoology with focus on parasitology
+  \item[\textbf{Subsidiary subjects:}] Genetics, Botany
+  \end{itemize}
+\end{itemize}
+
+\section*{Employment}
+
+\begin{itemize}
+\item [May 2014--Present] \textbf{Juniorprofessor}, Humboldt University of
+  Berlin, Institute for Biology, Department for Molecular
+  Parasitology and Leibniz Institute for Zoo and Wildlife research.
+\item [March 2012--May 2014] \textbf{Postdoctoral researcher}, Humboldt University of
+  Berlin, Institute for Biology, Department for Molecular
+  Parasitology.
+\item [Jun 2008--Jul 2011] \textbf{Research assistant}, Karlsruhe Institute of
+  Technology, Zoological Institute, Department for Parasitology and
+  Ecology.
+\end{itemize}
+
+
+% \section*{Fields of Research Interest}
+% Ecology and evolution of host-parasite interactions, transcriptomics
+% and genomics, molecular evolution.
+
+\section*{Research}
+
+\subsection*{Peer Reviewed Publications}
+
+\begin{itemize}
+
+\item Totta Ehret, Simone Spork, Christoph Dieterich, Richard Lucius
+  and \textbf{Emanuel Heitlinger} (2017) Dual RNA-seq Reveals No
+  Plastic Transcriptional Response Of The Coccidian Parasite Eimeria
+  falciformis To Host Immune Defences. BMC Genomics accepted.
+  
+\item Ines Lesniak, Ilja Heckmann, \textbf{Emanuel Heitlinger},
+  Claudia A Szentiks, Carsten Nowak, Verena Harms, Anne Jarausch, Ilka
+  Reinhardt, Gesa Kluth, Heribert Hofer, Oliver Krone (2017)
+  Population expansion and individual age affect endoparasite richness
+  and diversity in a recolonising large carnivore
+  population. Scientific Reports 7, 41730
+  
+\item \textbf{Emanuel Heitlinger}, Susana C Ferreira, Dagmar Thierer,
+  Heribert Hofer and Marion L East (2017) The intestinal eukaryotic
+  and bacterial biome of spotted hyenas: the impact of social status
+  and age on diversity and composition. Frontiers in Cellular and
+  Infection Microbiology 7, 262.
+  
+\item \textbf{Emanuel Heitlinger}, Horst Taraschewski, Urszula
+  Weclawski, Karim Gharbi and Mark Blaxter. (2014)
+  \href{https://peerj.com/articles/684/}{Transcriptome analyses of
+    \textit{Anguillicola crassus} from native and novel hosts.}  PeerJ
+  2:e684.
+
+\item \textbf{Emanuel Heitlinger}, Simone Spork, Richard Lucius, and
+  Christoph Dieterich. (2014)
+  \href{http://www.biomedcentral.com/1471-2164/15/696/abstract}{The
+    Genome of \textit{Eimeria falciformis} - Reduction and Specialization in a
+    Single Host Apicomplexan Parasite.} BMC Genomics 15 (1): 696.
+
+\item Urszula Weclawski, \textbf{Emanuel Heitlinger}, Tobias Baust,
+  Bernhard Klar, Trevor Petney, Yu-San Han, and Horst Taraschewski
+  (2014) \href{http://www.frontiersinzoology.com/content/11/1/74}{
+    Rapid Evolution of \textit{Anguillicola crassus} in Europe: Species
+    Diagnostic Traits Are Plastic and Evolutionarily Labile.}
+  Frontiers in Zoology 11 (1): 74.
+
+\item Manuela Schmid, \textbf{Emanuel Heitlinger}, Simone Spork, Hans-Joachim
+  Mollenkopf, Richard Lucius, and Nishith Gupta (2013)
+  \href{http://www.nature.com/mi/journal/vaop/ncurrent/full/mi2013115a.html}
+  {\textit{Eimeria falciformis} infection of the mouse caecum identifies
+    opposing roles of IFN$\gamma$-regulated host pathways for the parasite
+    development.} Mucosal immunology, 25 December.
+
+\item Urszula Weclawski, \textbf{Emanuel Heitlinger}, Tobias Baust,
+  Bernhard Klar, Trevor Petney, Yu San Han and Horst Taraschewski
+  (2013) 
+  \href{http://www.biomedcentral.com/1471-2148/13/78}{
+    Evolutionary divergence of the swim bladder nematode
+    \textit{Anguillicola crassus} after colonization of a novel host,
+    Anguilla anguilla.} BMC Evolutionary Biology,
+  13:78.
+
+\item \textbf{Emanuel Heitlinger}, Stephen Bridgett, Anna Montazam,
+  Horst Taraschewski and Mark L Blaxter (2013)
+  \href{http://www.biomedcentral.com/1471-2164/14/87}{The
+    transcriptome of the invasive eel swimbladder nematode parasite
+    \textit{Anguillicola crassus}.} BMC Genomics, 
+  14:87.
+
+\item Dominik R Laetsch, \textbf{Emanuel Heitlinger}, Horst
+  Taraschewski, Steven A Nadler and Mark L Blaxter (2012)
+  \href{http://www.biomedcentral.com/1471-2148/12/60} {The
+    phylogenetics of Anguillicolidae (Nematoda: Anguillicolidea),
+    swimbladder parasites of eels.} BMC Evolutionary Biology,
+  12:60.
+
+\item \textbf{Emanuel Heitlinger}, Dominik R Laetsch, Urszula
+  Weclawski, Yu-San Han and Horst Taraschewski (2009)
+  \href{http://www.parasitesandvectors.com/content/2/1/48}{Massive
+    encapsulation of larval \textit{Anguillicoloides crassus} in the
+    intestinal wall of Japanese eels}. Parasites \& Vectors,
+  2:48.
+\end{itemize}
+
+% \subsection*{Scientific Software}
+%
+% \begin{itemize}
+% \item \href{http://foo}{foo},
+%   A R package
+% \end{itemize}
+
+% \subsection*{Other Publications}
+% \begin{itemize}
+% \item A book
+% \end{itemize}
+
+
+\subsection*{Invited presentations}
+
+\begin{itemize}
+
+\item NGS workshop and conference MouseGene 2014. November 2014, Nove
+  Hrady, Czech Republic. Lecture: ``Bioinformatic design of DNA
+  capture baits for population genomics''. Practical training course:
+  ``Bait design - extracting and screening regions from BLAST
+  searches.''
+
+\end{itemize}
+
+
+% \subsection*{Conference Presentations}
+
+% \begin{itemize}
+
+
+% \item 2nd ApiCOWplexa- International Meeting on Apicomplexan Parasites
+%   in Farm Animals, November 2013, Kusadasi, Turkey. Oral Presentation:
+%   ``The genome of \textit{Eimeria falciformis} allows identification of
+%   conserved invasion strategies but diverged host interaction in the
+%   Coccidia (Apicomplexa)''. 
+  
+% \item 1st ApiCOWplexa- International Meeting on Apicomplexan Parasites
+%   in Farm Animals, November 2012, Lisbon, Portugal. Poster
+%   presentation: ``Genome sequencing of the mouse parasite \textit{Eimeria
+%   falciformis}''.
+
+% \item 25th Biannual conference of the German society of parasitology
+%   (DGP), March 14-17 2012, Heidelberg, Germany. Oral presentation:
+%   ``Divergence of an introduced population of \textit{Anguillicola
+%     crassus} a transcriptomic perspective''.
+
+% \item 3rd Status Symposium, Volkswagen Foundation Funding Initiative
+%   Evolutionary Biology, November 7-11 2011, Sylt, Germany. Oral
+%   presentation: ``Divergence of an intoduced parasite: a
+%   transcriptomic perspective on \textit{Anguillicola crassus}''.
+
+% \item 2nd Status Symposium, Volkswagen Foundation Funding Initiative
+%   Evolutionary Biology, May 9-12 2010, Frauenchiemsee, Germany. Oral
+%   presentation: ``The transcriptome of \textit{Anguillicoloides
+%     crassus} sampled by pyrosequencing''.
+
+% \item 24th Biannual conference of the German society of parasitology
+%   (DGP), March 16-19 2010, M\"unster, Germany. Two oral presentations:
+%   ``The transcriptome of \textit{Anguillicoloides crassus} sampled by
+%   pyrosequencing'' and ``Massive encapsulation of larval
+%   \textit{Anguillicoloides crassus} in the intestinal wall of the
+%   Japanese eel''.
+
+% \item Mind the gap: joining empirical and theoretical population
+%   genetics, October 2-3 2009, Freiburg, Germany. Oral presentation:
+%   ``Divergence between European and Asian populations of the
+%   swimbladder nematode \textit{Anguillicoloides crassus}''.
+
+% \item 1st Status Symposium, Volkswagen Foundation Funding Initiative
+%   Evolutionary Biology, February 25-27 2009, M\"unster,
+%   Germany. Poster: ``Divergence between East Asian and European
+%   populations of the swimbladder-nematode \textit{Anguillicola
+%     crassus}''.
+
+% \item Xth European Multicolloquium of Parasitology - EMOP 10, August
+%   24-28, 2008, Paris, France. Oral Presentation: ``Divergence between
+%   East Asian and European populations of the swimbladder-nematode
+%   \textit{Anguillicola crassus}''.
+
+% \end{itemize}
+
+% \section*{Professional Activities}
+% \begin{itemize}
+% \item Reviewer activity (journals): \textit{BMC Genomics}
+%   \textit{Parasites \& Vectors}, \textit{The Journal of Parasitology},
+%   \textit{Parasitology research}
+% \item Thesis committee membership: 
+%   \begin{itemize}
+%   \item[2014] one review for a doctoral thesis
+%   \end{itemize}
+%   %   % \item [2010--Present] Member, foo2.
+% \end{itemize}
+
+% \section*{Advising}
+% \begin{itemize}
+% \item Doctoral students (formal advisor):
+%   \begin{itemize}
+%   \item[2014--Present] Enas Khalifeh
+%   \end{itemize}
+% \item Master students (formal advisor)
+%   \begin{itemize}
+%   \item[2014--Present] Ilan Michaev
+%   \item[2014] Luis Santos
+%   \end{itemize}
+% \item Bachelor students (formal advisor):
+%   \begin{itemize}
+%   \item[2014--Present] Julia Kraft
+%   \end{itemize}
+% \item Diploma students (informal advisor)
+%   \begin{itemize}
+%   \item [2011] Corinna Kieffer
+%   \item [2010] Dominik Laetsch 
+%   \end{itemize}
+% \end{itemize}
+
+% \section*{Teaching}
+% \begin{itemize}
+% \item[2013 and 2014] Interdisciplinary module on nematodes (master students)
+% \item[2012 and 2013]Oberseminar Parasitologie
+% \item[2012] Support for ZIBI International Summer School on Pathogen-Host
+%   Interplay
+% \end{itemize}
+
+\section*{Major Awards, \& Fellowships}
+\begin{itemize}
+\item[2015] Grant HE 7320/2-1 (Deutsche Forschungsgemeinschaft):
+  Coevolution of the house mouse and intracellular parasite in a
+  hybrid zone (\euro 247k) Principal Investigator: Emanuel
+  Heitlinger
+\item [2008] Volkswagen Stiftung PhD Fellowship, Funding Initiative
+  Evolutionary Biology, full funding of research position and research
+  material (\euro 131k)
+\end{itemize}
+
+% \section*{Miscellaneous}
+
+% \begin{itemize}
+% \item \textit{Security Clearance:} Special agent.
+% \end{itemize}
+
+% Footer
+% \begin{center}
+%   \begin{small}
+%     Last updated: \today
+%   \end{small}
+% \end{center}
+
+\end{document}
